@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Olá fragmento em branco</string>
+    <string name="txt_no_account_signup">Não tem uma conta? <font color="#2196F3">Registre-se agora</font></string>
+    <string name="txt_register_header">Criar nova conta</string>
+    <string name="txt_register_subheader">Forneça todas as informações necessárias</string>
+    <string name="txt_username">Nome de usuário</string>
+    <string name="txt_username_hint">cheezycode</string>
+    <string name="txt_email">E-mail</string>
+    <string name="txt_email_hint">thiagocostadejesus@gmail.com</string>
+    <string name="txt_password">Senha</string>
+    <string name="txt_password_hint">........</string>
+    <string name="txt_sign_up">Inscreva-se</string>
+    <string name="txt_already_have_account">Já tem uma conta?</string>
+    <string name="txt_login_header">Bem-vindo novamente!</string>
+    <string name="txt_login_subheader">Faça login para acessar suas notas</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_error_message">%1$S*</string>
+    <string name="note_title">Título</string>
+    <string name="txt_title_hint">Escreva seu título</string>
+    <string name="txt_description">Descrição</string>
+    <string name="txt_description_hint">Escreva sua descrição</string>
+    <string name="txt_submit">Enviar</string>
+    <string name="add_note">Adicionar observação</string>
+</resources>
